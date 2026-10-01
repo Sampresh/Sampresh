@@ -27,10 +27,10 @@ Mostly full stack, occasionally security tooling.</i>
 ## 🧑‍💻 About Me
 
 - 🎓 **Computer Systems Engineering** graduate
-- 🌐 I build **full stack web apps** with Next.js, Django and MongoDB
-- 📱 I make **Android apps** in Kotlin
+- 🌐 I build **full stack web apps** with Next.js, Express and Postgres
+- 📱 I make **Android and IOS apps** with React Native
 - 🔐 I'm interested in **web security** and authentication
-- 🤖 I've worked on **AI/ML** projects like stock-market prediction on S&P 500 data
+- 🤖 I've worked on **AI/ML** projects.
 - 🎬 I also make content on YouTube and Instagram
 - 💼 **Open to freelance work.** Reach out!
 
@@ -39,13 +39,16 @@ Mostly full stack, occasionally security tooling.</i>
 ## 🛠️ Tech Stack
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,kotlin" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,kotlin" />
 
-**Web & Frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,django,androidstudio" />
+**Web, Mobile & Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,django" />
 
-**Databases & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode" />
+**Databases & Backend**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,prisma,redis" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,androidstudio" />
 
 ---
 
@@ -53,9 +56,9 @@ Mostly full stack, occasionally security tooling.</i>
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🔐 [**Web Security Login System**](https://github.com/Sampresh/webSecurity) | A custom login page with key security measures, authentication and user validation | HTML · CSS · JavaScript |
-| 📈 [**Stock Market Prediction AI**](https://github.com/Sampresh/MarketPredicition-AI-mode) | An ML model that forecasts market trends from historical S&P 500 data | Python · ML · Data Analysis |
-| 🧳 [**Suitcase – Travel Itinerary App**](https://github.com/Sampresh/SuitCase-mobile-app) | An app to plan, buy and manage travel itineraries in one place | Kotlin · Android |
+| 📻 [**Nepaliko Radio**](https://github.com/Sampresh/Nepaliko_Radio) | Mobile app for Nepaliko Radio 88.8 MHz: live streaming, notifications and Nepali-language support | React Native · Expo · TypeScript · Firebase |
+| 🐾 [**CLAWKIT App**](https://clawkit.us) | Dog seizure tracking app for iOS and Android: log a seizure in one tap, capture observations, and share a clean report with your vet | React Native · Expo · Supabase · SQLite |
+| 🌐 [**CLAWKIT Website**](https://github.com/Sampresh/CLAWKIT-) | Marketing site and API for CLAWKIT, with a contact form, newsletter and admin dashboard. Live at [clawkit.us](https://clawkit.us) | Next.js · Express · PostgreSQL · Prisma |
 | ⚽ [**Live Sports Hosting Website**](https://github.com/Sampresh/Live-matchHosting-site) | A platform to stream and manage live sports events | Django · Python |
 
 👉 See more on my portfolio: **[sampresh.com.np](https://sampresh.com.np)**
@@ -76,5 +79,5 @@ Mostly full stack, occasionally security tooling.</i>
 ---
 
 <div align="center">
-<i>Building the future, one line of code at a time.</i> ❤️
+<i>Thanks for Stopping By/.</i> 💀
 </div>
