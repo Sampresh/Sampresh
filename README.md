@@ -3,11 +3,11 @@
 
 <img src="https://media.tenor.com/_OFPuqj02HgAAAAC/baby-laugh-ai-baby.gif" alt="Laughing baby" width="320"/>
 
-# Hey, I'm Sampresh Karki 👋
+# Hey, I'm Sampresh 
 
 ### Software Engineer · Web Developer · App Developer
 
-<i>Computer Systems Engineering graduate from Nepal 🇳🇵 — I build web and mobile apps.<br/>
+<i>Computer Systems Engineering graduate from Nepal 🇳🇵 I build web and mobile apps.<br/>
 Mostly full stack, occasionally security tooling.</i>
 
 <br/><br/>
